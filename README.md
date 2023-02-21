@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Andra Kusuma Putra</h1>
 <h3 align="center">A passionate Mobile developer from Indonesia</h3>
-<img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/f1/e7/34/f1e734f9cade86fe737a9aa404ad5677.gif">
+<img align="right" alt="Coding" width="400" src="https://camo.githubusercontent.com/d4fd0e2496199c890485eb47c5cf57b419d1de9a33e88a6b9087a6ee9062e591/68747470733a2f2f692e70696e696d672e636f6d2f6f726967696e616c732f66312f65372f33342f66316537333466396361646538366665373337613961613430346164353637372e676966">
 
 # 💫 About Me:
 🔭 I’m currently working on Mobile App(Flutter & React-Native)<br>🧑🏻‍💻 I love using Software as a solution for every Problem.<br>🌱 I’m currently learning everything <br>💬 Ask me about Laravel & NodeJS 🔄<br>⚡ Fun fact Listening music and Court Tennis 
