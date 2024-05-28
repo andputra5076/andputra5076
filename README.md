@@ -1,13 +1,13 @@
 <img align="right" alt="Coding" width="400" src="https://camo.githubusercontent.com/d4fd0e2496199c890485eb47c5cf57b419d1de9a33e88a6b9087a6ee9062e591/68747470733a2f2f692e70696e696d672e636f6d2f6f726967696e616c732f66312f65372f33342f66316537333466396361646538366665373337613961613430346164353637372e676966">
 
 <h1 align="center">Hi 👋, I'm Andra Kusuma Putra</h1>
-<h3 align="center">A passionate Mobile developer from Indonesia</h3>
+<h3 align="center">A passionate Mobile & Website developer from Indonesia</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=andraputra5076&label=Profile%20views&color=0e75b6&style=flat" alt="andraputra5076" /> </p>
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🔭 I’m currently working on **Mobile App(Flutter & React-Native)**
+- 🔭 I’m currently working on **Website Dev(Laravel & Node Js)**
 
 - 🌱 I’m currently learning **everything**
 
