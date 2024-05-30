@@ -1,4 +1,4 @@
-<img align="right" alt="Coding" width="400" src="https://camo.githubusercontent.com/d4fd0e2496199c890485eb47c5cf57b419d1de9a33e88a6b9087a6ee9062e591/68747470733a2f2f692e70696e696d672e636f6d2f6f726967696e616c732f66312f65372f33342f66316537333466396361646538366665373337613961613430346164353637372e676966">
+<img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif">
 
 <h1 align="center">Hi 👋, I'm Andra Kusuma Putra</h1>
 <h3 align="center">A passionate Mobile & Website developer from Indonesia</h3>
@@ -15,7 +15,7 @@
 
 - 📫 How to reach me **andrakusuma442@gmail.com**
 
-- ⚡ Fun fact **Listening music and Court Tennis**
+- ⚡ Fun fact **Listening Music and Court Tennis**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
