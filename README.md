@@ -1,7 +1,7 @@
 <img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif">
 
 <h1 align="center">Hi 👋, I'm Andra Kusuma Putra</h1>
-<h3 align="center">A passionate Mobile & Website developer from Indonesia</h3>
+<h3 align="center">A passionate Mobile & Website Developer from Indonesia</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=andputra5076&label=Profile%20views&color=0e75b6&style=flat" alt="andputra5076" /> </p>
 
